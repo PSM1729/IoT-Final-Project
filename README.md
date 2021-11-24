@@ -20,5 +20,7 @@ Tools used:
 
 This Dashboard conveys about deforestation and rainfall recorded across India.
 
+The first step involved collecting dataset from sources. Analysed various parameters deforestation percentage and rainfall in cm in order to visualize the joint data properly. Then compared between rainfall, rainfall, tree cover and deforestation.
+
 Tools used:
 - Power BI
